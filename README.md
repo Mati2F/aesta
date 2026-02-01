@@ -2,7 +2,7 @@
 
 ### Para ejecutar el código:
 
-## Backend
+## 1° Backend
 1. Entrar a la carpeta
 ```bash
 cd backend
@@ -12,7 +12,10 @@ cd backend
 uvicorn main:app --reload
 ```
 
-## Frontend
+> [!WARNING]
+> Backend y Frontend deben ir en consolas separadas. Para abrir una consola nueva se puede hacer con el shortcut Ctrl + shift + ñ
+
+## 2° Frontend
 1. Entrar a la carpeta
 ```bash
 cd frontend
